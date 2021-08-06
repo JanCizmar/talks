@@ -1,0 +1,16 @@
+{
+  "name": "tolgee_talk",
+  "version": "1.0.0",
+  "description": "Marp presentation about Tolgee localization tool",
+  "main": "index.js",
+  "scripts": {
+    "serve": "PORT=5800 marp --html -s ./",
+    "watch": "marp -w ./talk.md --html",
+    "build": "marp ./talk.md --html --pdf"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@marp-team/marp-cli": "^1.2.0"
+  }
+}
