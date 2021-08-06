@@ -4,9 +4,9 @@
   "description": "Marp presentation about Tolgee localization tool",
   "main": "index.js",
   "scripts": {
-    "serve": "PORT=5800 marp --html -s ./",
-    "watch": "marp -w ./talk.md --html",
-    "build": "marp ./talk.md --html --pdf"
+    "serve": "PORT=5800 marp --allow-local-files --html -s ./",
+    "watch": "marp -w ./talk.md --allow-local-files --html",
+    "build": "marp ./talk.md --allow-local-files --html --pdf"
   },
   "author": "",
   "license": "ISC",
