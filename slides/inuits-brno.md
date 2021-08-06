@@ -22,7 +22,7 @@ background-color: rgba(88,50,73,0.03);
 }
 </style>
 
-![h:100px](tolgeeLogo.svg)
+![h:100px](images/tolgeeLogo.svg)
 
 ## Web Application Localization Without Tears 😢 <!-- fit -->
 
@@ -66,7 +66,7 @@ Jan Cizmar
 
 <div style="text-align: center">
 
-![empty_dog.png](empty_dog.png)
+![empty_dog.png](images/empty_dog.png)
 
 </div>
 
@@ -74,7 +74,7 @@ Jan Cizmar
 
 <div style="text-align: center">
 
-![beware_of_safety.png](beware_of_safety.png)
+![beware_of_safety.png](images/beware_of_safety.png)
 
 </div>
 
@@ -90,13 +90,9 @@ Jan Cizmar
 
 <div style="text-align: center">
 
-![image](./hey_jude.png)
+![image](images/hey_jude.png)
 
 </div>
-
----
-
-# Localization process with Tolgee (Demo)
 
 ---
 
@@ -104,6 +100,10 @@ Jan Cizmar
 
 - Developers develop their code 🧑‍💻
 - Translators translate 👩‍💻
+
+---
+
+# Localization process with Tolgee (Demo)
 
 ---
 
@@ -220,26 +220,26 @@ Use Tolgee Cloud
 <div style="display: flex; justify-content: space-around; flex-direction: column; margin-top: 50px">
 <div style="display: flex; justify-content: space-around">
 
-![width:200px](kotlin.png)
+![width:200px](images/kotlin.png)
 
-![width:200px](spring.png)
+![width:200px](images/spring.png)
 
-![width:100px](postgres.png)
+![width:100px](images/postgres.png)
 </div>
 <div style="display: flex; justify-content: space-around; margin-top: 30px">
 
-![width:100px](typescript.png)
+![width:100px](images/typescript.png)
 
-![width:100px](react.png)
+![width:100px](images/react.png)
 
-![width:100px](material.png)
+![width:100px](images/material.png)
 
 </div>
 <div style="display: flex; justify-content: space-around; margin-top: 30px">
 
-![width:100px](docker.png)
+![width:100px](images/docker.png)
 
-![width:100px](kubernetes.png)
+![width:100px](images/kubernetes.png)
 
 </div>
 </div>
