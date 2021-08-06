@@ -28,6 +28,8 @@ background-color: rgba(88,50,73,0.03);
 
 Jan Cizmar
 
+[tolgee.io/t/inuits-brno.html](https://tolgee.io/t/inuits-brno.html)
+
 ---
 
 <h2 style="text-align: center">
@@ -62,6 +64,7 @@ Jan Cizmar
 
 1. Take the localization data from your code & send it to translator
 2. Answer a lot of questions about context of the data ⁉️
+
 ---
 
 <div style="text-align: center">
@@ -86,6 +89,7 @@ Jan Cizmar
 2. Answer a lot of questions about context of the data ⁉️
 3. Get wrong translations because of missing context ❌
 4. Append the data to the code
+
 ---
 
 <div style="text-align: center">
@@ -122,10 +126,7 @@ name=Peter → Hello, I am Peter.
 } here.
 ```
 
-dogsCount=1 → One dog is here.
-dogsCount=0 → 0 dogs are here. 
-dogsCount=2 → 2 dogs are here. 
-...
+dogsCount=1 → One dog is here. dogsCount=0 → 0 dogs are here. dogsCount=2 → 2 dogs are here. ...
 
 ---
 
@@ -208,6 +209,10 @@ Use Tolgee Cloud
 
 # The Future
 
+- Release stable v1 in September
+
+## Features
+
 - Automatic screenshot generation
 - Glossaries, Translation Memory, Automated translations
 - Plugins for IDE & Design tools
@@ -253,8 +258,52 @@ Use Tolgee Cloud
 - Phrase
 - Many more
 
+# Open-source
+
+- Weblate
+- Pontoon
+
 ---
-# Question time!
+<div style="display: flex">
+<div>
+
+## Docs
+
+https://tolgee.io
+
+## Contact me
 
 cizmar@tolgee.io
-https://tolgee.io
+
+## Github projects
+
+<div style="display: flex">
+
+[github.com/tolgee/server](https://github.com/tolgee/server)
+<div style="margin-left: 10px">
+<!-- Place this tag where you want the button to render. -->
+<a style="margin-left: 20px" class="github-button" href="https://github.com/tolgee/server" data-icon="octicon-star" data-size="large" aria-label="Star tolgee/server on GitHub">Star</a>
+</div>
+</div>
+<div style="display: flex">
+
+[github.com/tolgee/tolgee-js](https://github.com/tolgee/tolgee-js)
+<!-- Place this tag where you want the button to render. -->
+<div style="margin-left: 10px">
+<a class="github-button" href="https://github.com/tolgee/server" data-icon="octicon-star" data-size="large" aria-label="Star tolgee/server on GitHub">Star</a>
+</div>
+</div>
+
+## Slides
+
+https://tolgee.io/t/inuits-brno.html
+
+</div>
+<div style="display: flex; flex-grow: 1; justify-content: center; align-items: center">
+
+![w:400px](images/tolgeeLogo.svg)
+
+</div>
+</div>
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
