@@ -6,8 +6,8 @@
   "scripts": {
     "serve": "PORT=5800 marp --allow-local-files --html -s ./",
     "watch": "marp -w ./talk.md --allow-local-files --html",
-    "build-pdf": "marp ./talk.md --allow-local-files --html --pdf",
-    "build-html": "marp ./talk.md --allow-local-files --html --pdf"
+    "build-pdf": "marp ./talk.md --allow-local-files --html --o ./build/talk.pdf",
+    "build-html": "marp ./talk.md --allow-local-files --html -o ./build/talk.html"
   },
   "author": "",
   "license": "ISC",
