@@ -126,7 +126,13 @@ name=Peter → Hello, I am Peter.
 } here.
 ```
 
-dogsCount=1 → One dog is here. dogsCount=0 → 0 dogs are here. dogsCount=2 → 2 dogs are here. ...
+dogsCount=1 → One dog is here. 
+
+dogsCount=0 → 0 dogs are here. 
+
+dogsCount=2 → 2 dogs are here. 
+
+...
 
 ---
 
